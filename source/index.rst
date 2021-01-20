@@ -31,7 +31,7 @@ xchain文档
    :caption: 快速入门:
    :numbered:
 
-   quickstart/deploy
+   quickstart/deploy1
    quickstart/operation
 
 .. toctree::
